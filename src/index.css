@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.active { 
+    color: rgb(62, 62, 204);
+}
+
+.h-75 { 
+    height: 75vh;
+}
